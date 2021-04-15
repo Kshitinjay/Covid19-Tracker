@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 50px 0;
+  }
+  
+  .infected {
+    border-bottom: 10px solid #2534FF;
+  }
+  
+  .recovered{
+    border-bottom: 10px solid #2DCC3C;
+  }
+  
+  .deaths{
+    border-bottom: 10px solid #D1110D;
+  }
